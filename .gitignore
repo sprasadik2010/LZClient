@@ -1,0 +1,66 @@
+## Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+## ASP.NET temporary files
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+## NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+## Node modules (if using frontend tools)
+node_modules/
+
+## Logs
+*.log
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## IIS Express
+/.vs/
+/.vscode/
+*.dbmdl
+*.jfm
+
+## Rider
+.idea/
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## SQL Server files
+*.mdf
+*.ldf
+
+## Backup & temp
+*.bak
+*.tmp
+*.temp
+
+## Visual Studio Code settings
+.vscode/
+
+## Publish output
+publish/
+*.azurePubxml
+
+## User specific files
+*.rsuser
